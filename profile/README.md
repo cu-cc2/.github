@@ -1,5 +1,3 @@
-# 🚀 for cc2
-
 📞 **Phone:** 9411245528 | 🏢 **Cabin:** 311 d2
 
 ## 📚 LeetCode Problems & Solutions
