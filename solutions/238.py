@@ -1,12 +1,12 @@
 class Solution:
     def productExceptSelf(self, nums):
         n = len(nums)
-        left = right = 1
-        ans = nums.copy()
-        for i in range(n):
-            ans[i] = left
-            left *= nums[i]
+        prefix = [1] * n
+        for i in range(1, n):
+            prefix[i] = prefix[i - 1] * nums[i - 1]
+        
+        right = 1
         for i in range(n - 1, -1, -1):
-            ans[i] *= right
+            prefix[i] *= right
             right *= nums[i]
-        return ans
+        return prefix
