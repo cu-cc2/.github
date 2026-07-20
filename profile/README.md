@@ -17,3 +17,6 @@
 - <a href="https://leetcode.com/problems/next-greater-element-i/" target="_blank">496. Next Greater Element I</a> - [🐍 Solution](../solutions/496.py)
 - <a href="https://leetcode.com/problems/middle-of-the-linked-list/" target="_blank">876. Middle of the Linked List</a> - [🐍 Solution](../solutions/876.py)
 
+## 📝 Assignments
+
+- [Search in a Rotated Decreasing Array](../assignments/search_in_rotated_decreasing_array.md)
