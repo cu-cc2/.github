@@ -1,5 +1,25 @@
 📞 **Phone:** 9411245528 | 🏢 **Cabin:** 311 D2
 
+## 📍 Table of Contents
+
+- [📤 Submit Assignment](#-submit-assignment)
+- [📝 Assignments](#-assignments)
+- [📚 LeetCode Problems & Solutions](#-leetcode-problems--solutions)
+
+---
+
+## 📤 Submit Assignment
+
+- 🔗 **Submission Form:** [Click here to submit your assignment](https://forms.gle/6HxCrpDeJtayoHXH6)
+
+---
+
+## 📝 Assignments
+
+- [Search in a Rotated Decreasing Array](../assignments/search_in_rotated_decreasing_array.md)
+
+---
+
 ## 📚 LeetCode Problems & Solutions
 
 - <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank">33. Search in Rotated Sorted Array</a> - [🐍 Solution](../solutions/33.py)
@@ -17,8 +37,4 @@
 - <a href="https://leetcode.com/problems/next-greater-element-i/" target="_blank">496. Next Greater Element I</a> - [🐍 Solution](../solutions/496.py)
 - <a href="https://leetcode.com/problems/middle-of-the-linked-list/" target="_blank">876. Middle of the Linked List</a> - [🐍 Solution](../solutions/876.py)
 
-## 📝 Assignments
-
-- 📤 **Submit Assignments:** [Assignment Submission Form](https://forms.gle/6HxCrpDeJtayoHXH6)
-- [Search in a Rotated Decreasing Array](../assignments/search_in_rotated_decreasing_array.md)
 
