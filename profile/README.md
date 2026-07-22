@@ -19,4 +19,6 @@
 
 ## 📝 Assignments
 
+- 📤 **Submit Assignments:** [Assignment Submission Form](https://forms.gle/6HxCrpDeJtayoHXH6)
 - [Search in a Rotated Decreasing Array](../assignments/search_in_rotated_decreasing_array.md)
+
