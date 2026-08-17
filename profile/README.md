@@ -34,6 +34,7 @@
 - <a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank">238. Product of Array Except Self</a> - [🐍 Solution](../solutions/238.py)
 - <a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">287. Find the Duplicate Number</a> - [🐍 Solution](../solutions/287.py)
 - <a href="https://leetcode.com/problems/odd-even-linked-list/" target="_blank">328. Odd Even Linked List</a> - [🐍 Solution](../solutions/328.py)
+- <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/" target="_blank">84. Largest Rectangle in Histogram</a> - [🐍 Solution](../solutions/84.py)
 - <a href="https://leetcode.com/problems/next-greater-element-i/" target="_blank">496. Next Greater Element I</a> - [🐍 Solution](../solutions/496.py)
 - <a href="https://leetcode.com/problems/middle-of-the-linked-list/" target="_blank">876. Middle of the Linked List</a> - [🐍 Solution](../solutions/876.py)
 
