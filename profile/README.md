@@ -7,6 +7,7 @@
   - [Experiment 2](#experiment-2)
   - [Experiment 3](#experiment-3)
   - [Experiment 4](#experiment-4)
+  - [Experiment 5](#experiment-5)
 
 ---
 
@@ -38,5 +39,11 @@
 - <a href="https://leetcode.com/problems/palindrome-linked-list/" target="_blank">234. Palindrome Linked List</a> - [🐍 Solution](../solutions/234.py)
 - <a href="https://leetcode.com/problems/odd-even-linked-list/" target="_blank">328. Odd Even Linked List</a> - [🐍 Solution](../solutions/328.py)
 - <a href="https://leetcode.com/problems/middle-of-the-linked-list/" target="_blank">876. Middle of the Linked List</a> - [🐍 Solution](../solutions/876.py)
+
+### Experiment 5
+
+- <a href="https://leetcode.com/problems/combination-sum/" target="_blank">39. Combination Sum</a> - [🐍 Solution](../solutions/39.py)
+- <a href="https://leetcode.com/problems/subsets/" target="_blank">78. Subsets</a> - [🐍 Solution](../solutions/78.py)
+
 
 
