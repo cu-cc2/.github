@@ -5,8 +5,6 @@ class Solution:
             mid = (left + right) >> 1
             if nums[mid] == target:
                 return mid
-            
-            # left 
             if nums[left] <= nums[mid]:
                 if target > nums[mid] or target < nums[left]:
                     left = mid + 1

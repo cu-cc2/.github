@@ -1,4 +1,3 @@
-# Approach 1: Bit Manipulation (Bitmasking)
 class Solution:
     def subsets(self, nums):
         subsets = []
@@ -14,7 +13,6 @@ class Solution:
         return subsets
 
 
-# Approach 2: Backtracking (DFS - Decision Tree)
 class SolutionBacktracking:
     def subsets(self, nums):
         subsets = []
@@ -25,11 +23,9 @@ class SolutionBacktracking:
                 subsets.append(subset.copy())
                 return
 
-            # Decision 1: Include nums[index]
             subset.append(nums[index])
             backtrack(index + 1)
 
-            # Decision 2: Exclude nums[index]
             subset.pop()
             backtrack(index + 1)
 
