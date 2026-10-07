@@ -48,6 +48,7 @@
 
 ### Experiment 6
 
+- <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/" target="_blank">236. Lowest Common Ancestor of a Binary Tree</a> - [🐍 Solution](../solutions/236.py)
 - <a href="https://leetcode.com/problems/inorder-successor-in-bst/" target="_blank">285. Inorder Successor in BST</a> - [🐍 Solution](../solutions/285.py)
 
 
