@@ -8,6 +8,7 @@
   - [Experiment 3](#experiment-3)
   - [Experiment 4](#experiment-4)
   - [Experiment 5](#experiment-5)
+  - [Experiment 6](#experiment-6)
 
 ---
 
@@ -44,6 +45,10 @@
 
 - <a href="https://leetcode.com/problems/combination-sum/" target="_blank">39. Combination Sum</a> - [🐍 Solution](../solutions/39.py)
 - <a href="https://leetcode.com/problems/subsets/" target="_blank">78. Subsets</a> - [🐍 Solution](../solutions/78.py)
+
+### Experiment 6
+
+- <a href="https://leetcode.com/problems/inorder-successor-in-bst/" target="_blank">285. Inorder Successor in BST</a> - [🐍 Solution](../solutions/285.py)
 
 
 
